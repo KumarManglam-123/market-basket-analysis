@@ -1,0 +1,102 @@
+support,itemsets
+0.0392,frozenset({'Air Freshener'})
+0.036,frozenset({'Apple'})
+0.0386,frozenset({'BBQ Sauce'})
+0.0346,frozenset({'Baby Wipes'})
+0.0344,frozenset({'Banana'})
+0.0376,frozenset({'Bath Towels'})
+0.0382,frozenset({'Beef'})
+0.0344,frozenset({'Bread'})
+0.0318,frozenset({'Broom'})
+0.0318,frozenset({'Butter'})
+0.0324,frozenset({'Canned Soup'})
+0.0412,frozenset({'Carrots'})
+0.034,frozenset({'Cereal'})
+0.0384,frozenset({'Cereal Bars'})
+0.0356,frozenset({'Cheese'})
+0.0322,frozenset({'Chicken'})
+0.0352,frozenset({'Chips'})
+0.0408,frozenset({'Cleaning Rags'})
+0.0354,frozenset({'Cleaning Spray'})
+0.0368,frozenset({'Coffee'})
+0.0348,frozenset({'Deodorant'})
+0.0336,frozenset({'Diapers'})
+0.0428,frozenset({'Dish Soap'})
+0.0356,frozenset({'Dishware'})
+0.0374,frozenset({'Dustpan'})
+0.034,frozenset({'Eggs'})
+0.0302,frozenset({'Extension Cords'})
+0.0374,frozenset({'Feminine Hygiene Products'})
+0.0364,frozenset({'Garden Hose'})
+0.0394,frozenset({'Hair Gel'})
+0.0366,frozenset({'Hand Sanitizer'})
+0.0348,frozenset({'Honey'})
+0.0352,frozenset({'Ice Cream'})
+0.0376,frozenset({'Insect Repellent'})
+0.0294,frozenset({'Iron'})
+0.0342,frozenset({'Ironing Board'})
+0.0338,frozenset({'Jam'})
+0.0382,frozenset({'Ketchup'})
+0.033,frozenset({'Laundry Detergent'})
+0.04,frozenset({'Lawn Mower'})
+0.034,frozenset({'Light Bulbs'})
+0.0304,frozenset({'Mayonnaise'})
+0.0342,frozenset({'Milk'})
+0.0396,frozenset({'Mop'})
+0.0326,frozenset({'Mustard'})
+0.0354,frozenset({'Olive Oil'})
+0.0372,frozenset({'Onions'})
+0.0388,frozenset({'Orange'})
+0.038,frozenset({'Pancake Mix'})
+0.0338,frozenset({'Paper Towels'})
+0.0386,frozenset({'Pasta'})
+0.0342,frozenset({'Peanut Butter'})
+0.037,frozenset({'Pickles'})
+0.0374,frozenset({'Plant Fertilizer'})
+0.032,frozenset({'Potatoes'})
+0.0358,frozenset({'Power Strips'})
+0.0324,frozenset({'Razors'})
+0.0362,frozenset({'Rice'})
+0.0372,frozenset({'Salmon'})
+0.0368,frozenset({'Shampoo'})
+0.0392,frozenset({'Shaving Cream'})
+0.0388,frozenset({'Shower Gel'})
+0.0326,frozenset({'Shrimp'})
+0.0356,frozenset({'Soap'})
+0.0298,frozenset({'Soda'})
+0.0366,frozenset({'Spinach'})
+0.0374,frozenset({'Sponges'})
+0.0348,frozenset({'Syrup'})
+0.0354,frozenset({'Tea'})
+0.0348,frozenset({'Tissues'})
+0.0352,frozenset({'Toilet Paper'})
+0.0314,frozenset({'Tomatoes'})
+0.036,frozenset({'Toothbrush'})
+0.0792,frozenset({'Toothpaste'})
+0.0318,frozenset({'Trash Bags'})
+0.0328,frozenset({'Trash Cans'})
+0.035,frozenset({'Tuna'})
+0.0378,frozenset({'Vacuum Cleaner'})
+0.041,frozenset({'Vinegar'})
+0.0364,frozenset({'Water'})
+0.0358,frozenset({'Yogurt'})
+0.0036,"frozenset({'Air Freshener', 'Toothpaste'})"
+0.0034,"frozenset({'BBQ Sauce', 'Toothpaste'})"
+0.0032,"frozenset({'Banana', 'Toothpaste'})"
+0.0036,"frozenset({'Bath Towels', 'Toothpaste'})"
+0.003,"frozenset({'Spinach', 'Bread'})"
+0.0042,"frozenset({'Cereal Bars', 'Toothpaste'})"
+0.0032,"frozenset({'Pasta', 'Hair Gel'})"
+0.0032,"frozenset({'Ketchup', 'Toothpaste'})"
+0.0036,"frozenset({'Lawn Mower', 'Toothpaste'})"
+0.0036,"frozenset({'Mayonnaise', 'Toothpaste'})"
+0.0038,"frozenset({'Milk', 'Toothpaste'})"
+0.003,"frozenset({'Olive Oil', 'Toothpaste'})"
+0.003,"frozenset({'Pancake Mix', 'Toothpaste'})"
+0.003,"frozenset({'Paper Towels', 'Toothpaste'})"
+0.0034,"frozenset({'Rice', 'Toothpaste'})"
+0.0038,"frozenset({'Syrup', 'Toothpaste'})"
+0.004,"frozenset({'Tea', 'Toothpaste'})"
+0.0052,"frozenset({'Toothbrush', 'Toothpaste'})"
+0.0032,"frozenset({'Trash Cans', 'Toothpaste'})"
+0.003,"frozenset({'Toothpaste', 'Yogurt'})"
