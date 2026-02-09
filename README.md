@@ -1,171 +1,97 @@
 # 🛒 Market Basket Analysis & Retail Sales Dashboard
 
 ## 📌 Project Overview
+This project analyzes **retail transaction data** to uncover purchasing patterns and generate business insights using:
 
-This project analyzes **retail transaction data** to uncover purchasing patterns and generate actionable business insights using:
-
-* **Market Basket Analysis (Apriori Algorithm)**
-* **Interactive Retail Sales Dashboard in Power BI**
+- **Market Basket Analysis (Apriori Algorithm)**
+- **Association Rules (Support, Confidence, Lift)**
+- **Interactive Power BI Dashboard**
+- **Python Data Analysis (Pandas, MLxtend)**
 
 The goal is to help retailers:
 
-* Identify **frequently bought product combinations**
-* Understand **customer purchasing behavior**
-* Monitor **sales trends and performance**
-* Support **data-driven business decisions**
-
----
-
-## 🧠 Key Business Insights
-
-* Discovered **high-confidence product combinations** frequently purchased together
-* Measured **product relationships using support, confidence, and lift**
-* Identified **top-revenue products and categories**
-* Analyzed **yearly and monthly sales trends**
-* Built an **interactive dashboard** for quick executive insights
+- Identify frequently purchased product combinations  
+- Understand product relationships  
+- Monitor revenue trends and performance  
 
 ---
 
 ## 📊 Dashboard Preview
 
 ### Retail Sales Performance Dashboard
-
 ![Retail Dashboard](assets/dashboard_overview.png)
 
 ### Market Basket Analysis Visualization
-
 ![Market Basket](assets/market_basket_analysis.png)
 
-### Sales Trend Insights
-
-![Sales Trend](assets/sales_trend.png)
-
 ---
 
-## 🏗️ Project Structure
-
-```
+## 📂 Project Structure
 Market-Basket-Analysis/
 │
+├── data/
+│ └── retail_transactions.csv
+│
 ├── notebooks/
-│   ├── market_basket_analysis.ipynb
-│   └── outputs/
-│       ├── frequent_itemsets.csv
-│       └── association_rules.csv
+│ ├── market_basket_analysis.ipynb
+│ └── outputs/
+│ ├── frequent_itemsets.csv
+│ └── association_rules.csv
 │
 ├── powerbi/
-│   └── Retail_Sales_Dashboard.pbix
+│ └── Retail_Sales_Dashboard.pbix
 │
 ├── assets/
-│   ├── dashboard_overview.png
-│   ├── market_basket_analysis.png
-│   └── sales_trend.png
+│ ├── dashboard_overview.png
+│ └── market_basket_analysis.png
 │
+├── .gitignore
 └── README.md
-```
+
 
 ---
 
-## ⚙️ Technologies Used
-
-* **Python**
-* **Pandas, NumPy**
-* **MLxtend (Apriori & Association Rules)**
-* **Power BI**
-* **Git & GitHub**
-
----
-
-## 🔍 Market Basket Analysis Workflow
-
-1. Data preprocessing and cleaning
-2. Transaction encoding for itemset generation
-3. Frequent itemset mining using **Apriori algorithm**
-4. Association rule generation using:
-
-   * Support
-   * Confidence
-   * Lift
-5. Exporting results for **Power BI visualization**
+## 🔍 Business Insights Generated
+- Identified **high-confidence product bundles**
+- Measured relationships using **support, confidence, and lift**
+- Discovered **top-revenue products**
+- Analyzed **monthly sales trends**
+- Built an **interactive decision-making dashboard**
 
 ---
 
-## 📈 Power BI Dashboard Features
-
-* KPI cards for:
-
-  * **Total Revenue**
-  * **Total Transactions**
-  * **Average Order Value**
-* Product-wise revenue comparison
-* Yearly & monthly sales trend analysis
-* Interactive filtering by:
-
-  * Product
-  * Store type
-  * Time period
+## 🛠️ Tech Stack
+- **Python** – Pandas, MLxtend  
+- **Jupyter Notebook** – Data analysis workflow  
+- **Power BI** – Interactive dashboard & visualization  
+- **Git & GitHub** – Version control & project hosting  
 
 ---
 
-## 🚀 How to Run This Project
+## 🚀 How to Run the Project
 
-### 1️⃣ Clone the Repository
-
+### 1️⃣ Clone Repository
 ```bash
 git clone https://github.com/KumarManglam-123/market-basket-analysis.git
 cd market-basket-analysis
-```
+2️⃣ Install Dependencies
+pip install pandas mlxtend
+3️⃣ Run Notebook
+Open in Jupyter:
 
-### 2️⃣ Run Market Basket Notebook
+jupyter notebook
+Run:
 
+notebooks/market_basket_analysis.ipynb
+4️⃣ View Dashboard
 Open:
 
-```
-notebooks/market_basket_analysis.ipynb
-```
-
-Run all cells to generate:
-
-* `frequent_itemsets.csv`
-* `association_rules.csv`
-
-### 3️⃣ Open Power BI Dashboard
-
-Open the file:
-
-```
 powerbi/Retail_Sales_Dashboard.pbix
-```
+in Power BI Desktop.
 
-in **Power BI Desktop**.
+👨‍💻 Author
+Kumar Manglam
 
----
+GitHub: https://github.com/KumarManglam-123
 
-## 💼 Resume Value
-
-This project demonstrates:
-
-* **End-to-end data analysis workflow**
-* **Business insight generation from raw data**
-* **Data visualization & dashboard design**
-* **Real-world retail analytics use case**
-* **GitHub project structuring for portfolio**
-
-Suitable for roles:
-
-* **Data Analyst**
-* **Business Analyst**
-* **BI Analyst**
-
----
-
-## 👤 Author
-
-**Kumar Manglam**
-
-* GitHub: [https://github.com/KumarManglam-123](https://github.com/KumarManglam-123)
-* LinkedIn: [https://www.linkedin.com/in/kumar-manglam-171257217/](https://www.linkedin.com/in/kumar-manglam-171257217/)
-
----
-
-⭐ If you found this project useful, consider giving it a **star** on GitHub!
+LinkedIn: https://www.linkedin.com/in/kumar-manglam-171257217/
