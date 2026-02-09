@@ -1,2 +1,4 @@
 data/retail_transactions.csv
 *.pbix
+__pycache__/
+.ipynb_checkpoints/
