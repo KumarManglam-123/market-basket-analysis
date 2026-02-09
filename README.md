@@ -30,11 +30,13 @@ The goal is to help retailers:
 
 ### Retail Sales Performance Dashboard
 
-![Retail Dashboard]("C:\Market Basket Analysis\assests\dashboard_overview.png")
+![Retail Dashboard]("<img width="1906" height="964" alt="dashboard_overview" src="https://github.com/user-attachments/assets/3d234c7c-19ad-4577-a1ce-c7840be36453" />
+")
 
 ### Market Basket Analysis Visualization
 
-![Market Basket]("C:\Market Basket Analysis\assests\market_basket_analysis.png")
+![Market Basket]("<img width="1919" height="948" alt="market_basket_analysis" src="https://github.com/user-attachments/assets/32bf968f-7ed1-4416-939d-4b4b5d6d76e9" />
+")
 
 
 
